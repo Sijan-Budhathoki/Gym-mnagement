@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=RegularMember
+comment1.params=ID\ name\ location\ phone\ email\ gender\ DOB\ membershipStartDate\ attendance\ loyaltyPoints\ activeStatus
+comment1.target=RegularMember(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ double,\ boolean)
+comment10.params=removalReason
+comment10.target=void\ revertRegularMember(java.lang.String)
+comment11.params=newPlan
+comment11.target=java.lang.String\ upgradePlan(java.lang.String)
+comment12.params=
+comment12.target=void\ displayMemberInformation()
+comment2.params=
+comment2.target=java.lang.String\ getplan()
+comment3.params=
+comment3.target=double\ getPrice()
+comment4.params=
+comment4.target=java.lang.String\ getreferralSource()
+comment5.params=
+comment5.target=java.lang.String\ removalReason()
+comment6.params=
+comment6.target=int\ getattendanceLimit()
+comment7.params=
+comment7.target=boolean\ getisEligibleForUpgrade()
+comment8.params=
+comment8.target=void\ markAttendance()
+comment9.params=plan
+comment9.target=double\ getPlanPrice(java.lang.String)
+numComments=13
